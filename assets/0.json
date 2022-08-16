@@ -1,12 +1,12 @@
 {
-	"name": "NAME_OF_THE_NFT",
-	"symbol": "",
+	"name": "Ambi",
+	"symbol": "AMB",
 	"image": "0.png",
 	"properties": {
 		"files": [{ "url": "0.png", "type": "image/png" }],
 		"creators": [
 			{
-				"address": "INSERT_YOUR_WALLET_ADDRESS",
+				"address": "soJTWSMxpe38wRSQuZB4FsBzPEVXexM6MTCiVPRA5HN",
 				"share": 100
 			}
 		]

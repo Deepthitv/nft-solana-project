@@ -1,7 +1,7 @@
 {
-	"name": "NAME_OF_THE_NFT",
-	"symbol": "",
-	"image": "12png",
+	"name": "Remo",
+	"symbol": "REM",
+	"image": "2.png",
 	"properties": {
 		"files": [{ "url": "2.png", "type": "image/png" }],
 		"creators": [
